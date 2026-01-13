@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Eduardo Vieira
 
-🎓 Estudante de Ciência da Computação na UnB  
-💻 Formado em ADS pela UCB  
+🎓 Estudante de Ciência da Computação na UnB - 4° Semestre
+💻 Formado em Análise e Desenvolvimento de Sistemas pela UCB  
 
 <p align="left">
   <a href="mailto:ovieira.eduardo@gmail.com">
