@@ -5,7 +5,8 @@
 
 <p align="left">
   <a href="mailto:ovieira.eduardo@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" width="50" height="50" alt="Email" />
+    <!-- Ícone Gmail minimalista branco -->
+    <img src="https://img.icons8.com/ios/50/ffffff/gmail-new.png" width="30" height="30" alt="Email" />
   </a>
 </p>
 
@@ -14,8 +15,9 @@
 ## 💻 Linguagens
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" />
+  <!-- Ícones minimalistas branco -->
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30" alt="C" />
+  <img src="https://img.icons8.com/ios/50/ffffff/java-coffee-cup-logo.png" width="30" height="30" alt="Java" />
 </p>
 
 ---
