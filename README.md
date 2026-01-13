@@ -14,11 +14,13 @@
 
 ## 📊 Estatísticas do GitHub
 
-<img src="https://stats-github-readme.vercel.app/api?username=DuardoV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+<img src="https://stats-github-readme.vercel.app/api?username=DuardoV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
+
 
 
 ---
 
 ## 🔥 Linguagens mais usadas
 
-<img src="https://stats-github-readme.vercel.app/api/top-langs/?username=DuardoV&layout=compact&theme=tokyonight" />
+<img src="https://stats-github-readme.vercel.app/api/top-langs/?username=DuardoV&layout=compact&theme=tokyonight&cache_seconds=1800" />
+
