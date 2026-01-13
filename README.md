@@ -14,10 +14,10 @@
 
 ## 📊 Estatísticas do GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=DuardoV&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+<img src="https://stats-github-readme.vercel.app/api?username=DuardoV&show_icons=true&theme=tokyonight" />
 
 ---
 
 ## 🔥 Linguagens mais usadas
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuardoV&layout=compact&theme=tokyonight&cache_seconds=1800" />
+<img src="https://stats-github-readme.vercel.app/api/top-langs/?username=DuardoV&layout=compact&theme=tokyonight" />
