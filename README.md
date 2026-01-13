@@ -3,34 +3,26 @@
 🎓 Estudante de Ciência da Computação na UnB  
 💻 Formado em ADS pela UCB  
 
----
-
-## 🚀 Tecnologias
-
-- C  
-- Java  
-
----
-
-## 📧 Contato
-
-[![Email](https://img.shields.io/badge/Email-eduardo%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ovieira.eduardo@gmail.com)
+<p align="left">
+  <a href="mailto:ovieira.eduardo@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="50" height="50" alt="Email" />
+  </a>
+</p>
 
 ---
 
 ## 💻 Linguagens
 
-[![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white)]  
-[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)]  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50" alt="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" alt="Java" />
+</p>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats & Linguagens mais usadas
 
-<img src="https://stats-github-readme.vercel.app/api?username=DuardoV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" />
-
----
-
-## 🔥 Linguagens mais usadas
-
-<img src="https://stats-github-readme.vercel.app/api/top-langs/?username=DuardoV&layout=compact&theme=tokyonight&cache_seconds=1800" />
+<p align="center">
+  <img src="https://stats-github-readme.vercel.app/api?username=DuardoV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" width="450" />
+  <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=DuardoV&layout=compact&theme=tokyonight&cache_seconds=1800" width="450" />
+</p>
