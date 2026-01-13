@@ -5,7 +5,7 @@
 
 <p align="left">
   <a href="mailto:ovieira.eduardo@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="50" height="50" alt="Email" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/gmail.svg" width="50" height="50" alt="Email" />
   </a>
 </p>
 
