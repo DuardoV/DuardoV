@@ -102,15 +102,5 @@ Atualmente estudo **C, Java, Python e desenvolvimento web**, buscando construir 
 
 Aqui estão alguns projetos que representam minha evolução como desenvolvedor.
 
-- 🚀 Em breve...
-
-> *(Você pode substituir esta seção por cards dos seus melhores projetos.)*
-
----
-
-<div align="center">
-
-### Obrigado pela visita!
 
 </div>
-```
