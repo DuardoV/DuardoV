@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Eduardo Vieira
 
-🎓 Estudante de Ciência da Computação na UnB - 4° Semestre
+🎓 Estudante de Ciência da Computação na UnB - 5° Semestre
 💻 Formado em Análise e Desenvolvimento de Sistemas pela UCB  
 
 <p align="left">
