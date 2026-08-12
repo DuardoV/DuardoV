@@ -3,7 +3,7 @@
 
 # Eduardo Vieira
 
-### Desenvolvedor de Software | Ciência da Computação - UnB
+### Estudante | Ciência da Computação - UnB
 
 Estudante de Ciência da Computação na **Universidade de Brasília (UnB)**, apaixonado por desenvolvimento de software, algoritmos e resolução de problemas.
 
